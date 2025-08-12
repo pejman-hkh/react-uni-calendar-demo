@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.react-uni-calendar {
+  height: 22rem !important;
+}
